@@ -1,0 +1,4 @@
+com\uninove\webjsp\resources\JavaEE8Resource.class
+Model\Dao\UsuarioDAO.class
+Servlets\Logar.class
+com\uninove\webjsp\JAXRSConfiguration.class
