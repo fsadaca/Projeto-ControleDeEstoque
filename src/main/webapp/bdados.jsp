@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Inventory - Visão</title>
+        <title>Inventory - Banco de Dados</title>
         <%@include file="header.jsp" %>
     </head>
     <body class="nav-md">
@@ -11,7 +11,7 @@
 
                 <%@include file="sidemenu.jsp" %>
                 <%@include file="topmenu.jsp" %>    
-                <%@include file="/view/view_professor.jsp" %>
+                <%@include file="/view/view_bdados.jsp" %>
                 <%@include file="footer.jsp" %>
 
             </div>

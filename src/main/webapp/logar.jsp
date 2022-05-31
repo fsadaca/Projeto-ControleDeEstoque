@@ -1,6 +1,6 @@
 <%
   
-    session.setAttribute("user", "Roberth");
+    session.setAttribute("user", "teste");
     response.sendRedirect("index.jsp");
 
 %>

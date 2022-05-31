@@ -3,7 +3,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>DISCIPLINA</h3>
+                <h3>VISÃO</h3>
               </div>
 
               <div class="title_right">
@@ -24,7 +24,7 @@
               <div class="col-md-12 col-sm-12  ">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>LISTA DE DISCIPLINA</h2>
+                    <h2>VISÃO</h2>
                     <ul class="nav navbar-right panel_toolbox">
                       <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                       </li>
@@ -41,7 +41,7 @@
                     <div class="clearfix"></div>
                   </div>
                   <div class="x_content">
-                      Conteúdo dos disciplina ...
+                      Conteúdo de visão ...
                   </div>
                 </div>
               </div>

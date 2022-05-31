@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Inventory - Analise</title>
         <%@include file="header.jsp" %>
     </head>
     <body class="nav-md">
@@ -10,7 +11,7 @@
 
                 <%@include file="sidemenu.jsp" %>
                 <%@include file="topmenu.jsp" %>    
-                <%@include file="/view/view_cursos.jsp" %>
+                <%@include file="/view/view_analise.jsp" %>
                 <%@include file="footer.jsp" %>
 
             </div>

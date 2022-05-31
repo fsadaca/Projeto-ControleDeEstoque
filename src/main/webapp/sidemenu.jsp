@@ -45,22 +45,22 @@
                     </li>
                     <li><a><i class="fa fa-edit"></i> Controle <span class="fa fa-chevron-down"></span></a>
                         <ul class="nav child_menu">
-                            <li><a href="cursos.jsp">Adicionar</a></li>
+                            <li><a href="controle.jsp">Adicionar</a></li>
                         </ul>
                     </li>
                     <li><a><i class="fa fa-desktop"></i> Visão <span class="fa fa-chevron-down"></span></a>
                         <ul class="nav child_menu">
-                            <li><a href="professor.jsp">Visualizar base</a></li>
+                            <li><a href="visao.jsp">Visualizar base</a></li>
                         </ul>
                     </li>
                     <li><a><i class="fa fa-table"></i> Banco de dados <span class="fa fa-chevron-down"></span></a>
                         <ul class="nav child_menu">
-                            <li><a href="disciplina.jsp">Ativos</a></li>
+                            <li><a href="bdados.jsp">Ativos</a></li>
                         </ul>
                     </li>
                     <li><a><i class="fa fa-bar-chart-o"></i> Analises <span class="fa fa-chevron-down"></span></a>
                         <ul class="nav child_menu">
-                            <li><a href="aluno.jsp">Analise do estoque</a></li>
+                            <li><a href="analise.jsp">Analise do estoque</a></li>
                         </ul>
                     </li>
 
